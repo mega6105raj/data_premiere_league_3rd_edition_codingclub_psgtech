@@ -21,7 +21,7 @@ Follow these steps to run the program and reproduce the results:
     !pip install optuna
     ```
 
-4.  **Copy and Execute Code**: Copy the code from the provided solution files into individual cells in your Colab notebook.
+4.  **Copy and Execute Code**: Copy the code from the provided solution files (queries folder) into individual cells in your Colab notebook. Preprocessing snippets has just been appended for the understanding and verification of the preprocessing claim we provide below. Do not run them. You can directly access the preprocessed datasets files from the drive link given below.
 
 5.  **View Output**: The results, including data previews, model training logs, evaluation metrics, and predictions, will be displayed directly below the corresponding code cells upon execution.
 
